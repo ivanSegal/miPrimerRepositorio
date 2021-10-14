@@ -1,2 +1,0 @@
-# miPrimerRepositorio
-Empezando a trabajar
